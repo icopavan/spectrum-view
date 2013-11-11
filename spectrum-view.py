@@ -15,7 +15,7 @@ class VesnaSpectrumPlot:
     
     def __init__(self, start_freq, end_freq, step):
         '''
-        Init the new object
+        Init a new object
         @param start_freq: Lower bound of the frequency band to scan [Hz].
         @param end_freq: Upper bound of the frequency band to scan [Hz].
         @param step: Bandwidth of a single step [Hz].        
